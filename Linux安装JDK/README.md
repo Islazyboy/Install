@@ -63,5 +63,4 @@ source /etc/profile
 ```
 java -version
 ```
-
 测试安装是否成功
